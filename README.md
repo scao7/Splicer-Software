@@ -3,3 +3,5 @@ This software detects the gait phase of the person and send control signal to th
 
 ![interface1](https://raw.githubusercontent.com/scao7/Splicer-Software-/main/images/interface.png)
 ![interface2](https://raw.githubusercontent.com/scao7/Splicer-Software-/main/images/interface2.png)
+
+![interface2](https://raw.githubusercontent.com/scao7/Splicer-Software-/main/images/forcecompare.png)
