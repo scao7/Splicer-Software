@@ -40,8 +40,8 @@ Use the A1 or A0 command to start the treadmill. With the A1 command you do not 
 You can then send A3 and A4 commands to set the speed and incline of the treadmill.
 You can send an AA command to stop the treadmill. You would have to send an A1 or A0 to start the treadmill again.
  
-Example of an elevation command: A4 30 31 34 35  this will set the incline to 14.5%
-Example of a speed command: A3 30 3 35 38  this will set the speed to 5.8 mph.
+Example of an elevation command: A4 30 3**1** 3**4** 3**5**  this will set the incline to 14.5%
+Example of a speed command: A3 30 3 3**5** 3**8** this will set the speed to 5.8 mph.
 Keep your packet size to 5 bytes and only one command every 100ms. 
 
 
